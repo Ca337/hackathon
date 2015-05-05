@@ -9,6 +9,8 @@ Key points
 * One and then git commit
 * Two and git status
 
+Now learning about branches
+
 The end
 
 
